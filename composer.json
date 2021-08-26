@@ -1,0 +1,14 @@
+{
+    "name": "xenonwellz/coinpayments",
+    "description": "Personal Coinpayment Api",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xenonwellz",
+            "email": "xenonwellz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
