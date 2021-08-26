@@ -1,1 +1,1 @@
-## Personal Coinpayment API for PHP 
+## Coinpayments.net API Class 
